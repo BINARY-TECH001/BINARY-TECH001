@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-Hello, this is Abdulrafiu Mubarak I'm a passionate Full stack Developer living in Ibadan, Nigeria, I've made a lot of projects with multiple web technologies. I love being part of a solution driven tech community . I love to teach others about web development. I love open source development and I build things on my GitHub profile (here). I love JavaScript and Python (Django and Flask).
+Hello, This is Abdulrafiu Mubarak I'm a passionate Full stack Developer living in Ibadan, Nigeria, I've made a lot of projects with multiple web technologies. I love being part of a solution driven tech community . I love to teach others about web development. I love open source development and I build things on my GitHub profile (here). I love JavaScript and Python (Django and Flask).
 
 * 🌍  I'm based in Ibadan
 * ✉️  You can contact me at [binarytechnig@gmail.com](mailto:binarytechnig@gmail.com)
