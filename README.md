@@ -8,7 +8,7 @@ I'm a skilled software developer with experience in Javascript and expertise in 
 
 * 🌍  I'm based in Oyo.
 * 🖥️  See my portfolio at [Mubarak\_Portfolio](http://mubarakcancode.vercel.app)
-* ✉️  You can contact me at [binarytechnig@gmail.com](mailto:binarytechnig@gmail.com)
+* ✉️  You can contact me at [codewithbinary@gmail.com](codewithbinary@gmail.com)
 * 🧠  I'm learning React Native.
 * 🤝  I'm open to collaborating on any Fullstack development | React Native Mobile App Development.
 * ⚡  Never allow someone's opinion become your reality
