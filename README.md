@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Fullstack Developer
 ---------------------------------------
 
-I'm a skilled software developer with experience in Javascript/Typesript and expertise in frameworks like React, Node.js and Express.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, user-friendly solutions that solve real-world problems. I love being part of a solution driven tech community. I love to teach others about web development and I've made a lot of projects with multiple web technologies.
+I'm a skilled software developer with experience in Javascript/Typesript and expertise in frameworks like NextJS, ReactJS, Node.js and Express.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable, user-friendly solutions that solve real-world problems. I love being part of a solution driven tech community. I love to teach others about web development and I've made a lot of projects with multiple web technologies.
 
 * 🌍  I'm based in Oyo.
 * 🖥️  See my portfolio at [Mubarak\_Portfolio](http://mubarakcancode.vercel.app)
